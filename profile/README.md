@@ -1,13 +1,33 @@
-<div align="center">
-  <br />
-  <img src="/assets/logo.png" alt="Beyond Humane symbol" width="120" />
-  <br />
-  <img src="/assets/text-logo.png" alt="Beyond Humane" width="520" />
-  <p><strong>Beyond existence.</strong></p>
-  <p><a href="https://beyondhumane.com" aria-label="Website"><img src="https://cdn.simpleicons.org/googlechrome/ffffff" alt="Website" width="22" height="22" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/beyondhumane" aria-label="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="22" height="22" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/beyondhumane" aria-label="X"><img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="22" height="22" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:info@beyondhumane.com" aria-label="Email"><img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Email" width="22" height="22" /></a></p>
-  <p>━━━━━━━━━━━━</p>
-  <p>
-    <sub>We develop software and AI agents that help products, processes, and organizations move beyond the conventional.</sub>
-  </p>
-  <br />
-</div>
+<p align="center">
+  <img width="112" src="/assets/logo.png" alt="Beyond Humane Icon">
+</p>
+
+<p align="center">
+  <a href="https://beyondhumane.com">
+    <img width="320" src="/assets/text-logo.png" alt="Beyond Humane Logo">
+  </a>
+</p>
+
+<h3 align="center">Beyond existence.</h3>
+
+<p align="center">
+  Software development and AI agents for products, processes, and organizations.
+</p>
+
+<p align="center"><br>
+  <a href="https://beyondhumane.com"><img height="25" width="25" src="/assets/social/website.svg" alt="Website" title="Website"></a>
+  &nbsp;
+  <a href="https://x.com/beyondhumane"><img height="25" width="25" src="/assets/social/x.svg" alt="X/Twitter" title="X/Twitter"></a>
+  &nbsp;
+  <a href="https://github.com/beyondhumane"><img height="25" width="25" src="/assets/social/github.svg" alt="GitHub" title="GitHub"></a>
+  &nbsp;
+  <a href="mailto:info@beyondhumane.com"><img height="25" width="25" src="/assets/social/email.svg" alt="Email" title="Email"></a>
+</p>
+
+---
+
+<p align="center">
+  We develop software and AI agents that help products, processes, and organizations move beyond the conventional.
+  <br><br>
+  <a href="https://beyondhumane.com/">Visit our website ›</a>
+</p>
