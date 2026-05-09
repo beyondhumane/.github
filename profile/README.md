@@ -1,6 +1,7 @@
 <p align="center">
   <img width="112" src="/assets/logo.png" alt="Beyond Humane Icon">
   <br>
+  <br>
   <a href="https://beyondhumane.com">
     <img width="320" src="/assets/text-logo.png" alt="Beyond Humane Logo">
   </a>
