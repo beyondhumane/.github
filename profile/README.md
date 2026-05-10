@@ -13,12 +13,13 @@
   Software development and AI agents for products, processes, and organizations.
 </p>
 
-<div align="center">
-
-| [![Website](https://raw.githubusercontent.com/beyondhumane/.github/main/assets/social/website.svg)](https://beyondhumane.com) | [![X](https://raw.githubusercontent.com/beyondhumane/.github/main/assets/social/x.svg)](https://x.com/beyondhumane) | [![LinkedIn](https://raw.githubusercontent.com/beyondhumane/.github/main/assets/social/linkedin.svg)](https://www.linkedin.com/company/beyond-humane) | [![GitHub](https://raw.githubusercontent.com/beyondhumane/.github/main/assets/social/github.svg)](https://github.com/beyondhumane) | [![Email](https://raw.githubusercontent.com/beyondhumane/.github/main/assets/social/email.svg)](mailto:info@beyondhumane.com) |
-|:---:|:---:|:---:|:---:|:---:|
-
-</div>
+<p align="center">
+  <a href="https://beyondhumane.com"><img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://x.com/beyondhumane"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/company/beyond-humane"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/beyondhumane"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:info@beyondhumane.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
