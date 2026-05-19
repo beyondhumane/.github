@@ -9,6 +9,8 @@
   </a>
 </p>
 
+<h3 align="center">Beyond existence.</h3>
+
 <p align="center">
   <a href="https://x.com/beyondhumane"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.linkedin.com/company/beyond-humane"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
