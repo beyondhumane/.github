@@ -10,7 +10,7 @@
 <h3 align="center">Beyond existence.</h3>
 
 <p align="center">
-  Software development and AI agents for products, processes, and organizations.
+  Custom software and AI agents. Fast, precise, and built to last.
 </p>
 
 <p align="center">
@@ -24,7 +24,5 @@
 ---
 
 <p align="center">
-  We develop software and AI agents that help products, processes, and organizations move beyond the conventional.
-  <br><br>
   <a href="https://beyondhumane.com/">Visit our website ›</a>
 </p>
