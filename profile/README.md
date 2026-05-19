@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="112" src="https://raw.githubusercontent.com/beyondhumane/.github/main/assets/logo.png" alt="Beyond Humane Icon">
+  <a href="https://beyondhumane.com">
+    <img width="112" src="https://raw.githubusercontent.com/beyondhumane/.github/main/assets/logo.png" alt="Beyond Humane Icon">
+  </a>
   <br>
   <br>
   <a href="https://beyondhumane.com">
@@ -10,11 +12,6 @@
 <h3 align="center">Beyond existence.</h3>
 
 <p align="center">
-  Custom software and AI agents. Fast, precise, and built to last.
-</p>
-
-<p align="center">
-  <a href="https://beyondhumane.com"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://x.com/beyondhumane"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.linkedin.com/company/beyond-humane"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/beyondhumane"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -24,5 +21,7 @@
 ---
 
 <p align="center">
+  Custom software and AI agents. Fast, precise, and built to last.
+  <br><br>
   <a href="https://beyondhumane.com/">Visit our website ›</a>
 </p>
